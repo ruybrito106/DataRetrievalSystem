@@ -1,0 +1,22 @@
+{
+  "name": "data_retrieval_system",
+  "version": "1.0.0",
+  "description": "System of data retrieval for indexing and searching in files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruybrito106/DataRetrievalSystem.git"
+  },
+  "author": "Divino Neto, Higor Cavalcanti, Ruy Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruybrito106/DataRetrievalSystem/issues"
+  },
+  "homepage": "https://github.com/ruybrito106/DataRetrievalSystem#readme",
+  "dependencies": {
+    "search-index": "^0.13.0"
+  }
+}
